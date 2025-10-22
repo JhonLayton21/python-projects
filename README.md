@@ -4,7 +4,7 @@
 
 ## 🧩 **Nivel Principiante**
 ✅ 1. Calculadora básica (CLI)  
-🔹 2. Conversor de unidades  
+✅ 2. Conversor de unidades  
 🔹 3. Juego de adivinar el número  
 🔹 4. Contador de palabras  
 🔹 5. Generador de contraseñas  
